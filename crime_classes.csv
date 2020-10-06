@@ -1,0 +1,826 @@
+Statute:,Crime:,Class:
+§ 14-8,Rebellion against the State,F
+§ 14-10,Secret political and military organizations,1
+§ 14-12,First Offense: Advocating Overthrow,1
+§ 14-12,Second Offense: Advocating Overthrow,H
+§ 14-12.1,Subversion,H
+§ 14-12.4,"Secret Society Handshakes, Disguises Etc",1
+§  14-12.5,Permit Secret Society Mtg,1
+§ 14-12.7,Wear Mask/Hood on Public Ways,1
+§ 14-12.9,Conceal Identity,1
+§ 14-12.10,Meetings or Demonstrations with Masks,1
+§ 14-12.12,Cross-burning,1
+§ 14-12.14,Place Exhibit (ie: nooses) to Intimidate,1
+§ 14-12.14,Place Exhibit (ie: nooses) while in Hood or Disguise,1
+§ 14-13,Counterfeiting Coins or Uttering Counterfeit Coins,I
+§ 14-14,Possess Counterfeiting Tools,I
+§ 14-15,Issuing substitutes for money without authority,3
+§ 14-16,Receiving or passing unauthorized substitutes for money,3
+§ 14-16.6,"Assault on executive, legislative, or court officer.",I
+§ 14-16.6,"Assault on executive, legislative, or court officer With Deadly Weapon",F
+§ 14-16.6,"Assault on executive, legislative, or court officer causing Serious Bodily Injury",F
+§ 14-16.7,"Threats against executive, legislative, or court officers",I
+§ 14-17,Murder in the First Degree,A
+§ 14-17,Murder in the Second Degree (B1 Malice),B1
+§ 14-17,Murder in the Second Degree (B2 Malice),B2
+§ 14-18,Voluntary Manslaughter,D
+§ 14-18,Involuntary Manslaughter,F
+§ 14-18.4,Death by distribution of certain CS,C
+§ 14-18.4,Aggravated death by distribution of CS,B2
+§ 14-23.3,Voluntary manslaughter of an unborn child,D
+§ 14-23.4,Involuntary manslaughter of an unborn child,F
+§ 14-23.5,Assault inflicting serious bodily injury on an unborn child,F
+§ 14-23.6.,Battery on an unborn child.,A1
+§ 14-27.21,First-degree forcible rape.,B1
+§ 14-27.22,Second-degree forcible rape,C
+§ 14-27.23,Statutory rape of a child by an adult,B1
+§ 14-27.24,First-degree statutory rape,B1
+§ 14-27.25,Statutory rape of person who is 15 years of age or younger (6+ year age gap),B1
+§ 14-27.25,Statutory rape of person who is 15 years of age or younger (4 to 6 year age gap),C
+§ 14-27.31,Sexual activity by a substitute parent or custodian,E
+§ 14-27.32,Sexual activity with a student (certain officials),G
+§ 14-27.32,Sexual activity with a student (other officials),I
+§ 14-27.33,Sexual battery,A1
+§ 14-27.33A,Sexual contact or penetration under pretext of medical treatment.,C
+§ 14-28,Malicious castration,C
+§ 14-28.1,Female genital mutilation of a child,C
+§ 14-29,Castration or other maiming without malice aforethought,E
+§ 14-30,Malicious maiming,C
+§ 14-30.1,Malicious throwing of corrosive acid or alkali,E
+§ 14-31,Maliciously assaulting in a secret manner,E
+§ 14-32,. Felonious assault with deadly weapon with intent to kill or inflicting serious injury (with intent to kill),C
+§ 14-32,. Felonious assault with deadly weapon with intent to kill or inflicting serious injury (without intent to kill),E
+§ 14-32.1,Assaults on individuals with a disability (simple assault only),A1
+§ 14-32.1,Assaults on individuals with a disability (aggravated etc),F
+§ 14-32.2,Patient abuse and neglect (intentional conduct proximately causes the death),C
+§ 14-32.2,Patient abuse and neglect (culpably negligent conduct proximately causes the death ),E
+§ 14-32.2,Patient abuse and neglect (willful or culpably negligent and proximately causes serious bodily injury),F
+§ 14-32.2,Patient abuse and neglect (evinces a pattern of conduct and the conduct is willful or culpably negligent and proximately causes bodily injury),H
+§ 14-32.3,"Domestic abuse, neglect, and exploitation of disabled or elder adults (abuse causes serious injury)",F
+§ 14-32.3,"Domestic abuse, neglect, and exploitation of disabled or elder adults (abuse causes injury)",H
+§ 14-32.3,"Domestic abuse, neglect, and exploitation of disabled or elder adults (neglect causes serious injury)",G
+§ 14-32.3,"Domestic abuse, neglect, and exploitation of disabled or elder adults (neglect causes injury)",I
+§ 14-32.4,Assault inflicting serious bodily injury; strangulation (serious bodily injury),F
+§ 14-32.4,Assault inflicting serious bodily injury; strangulation (injury),H
+§ 14-33,"Misdemeanor assaults, batteries, and affrays, simple",2
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (against sports official)",1
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (against female)",A1
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (against child)",A1
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (deadly weapon)",A1
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (against school employee)",A1
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (against transport worker)",A1
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (against company police)",A1
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (against transportation network company personell)",A1
+§ 14-33,"Misdemeanor assaults, batteries, and affrays (domestic in presence of child)",A1
+§ 14-33.2,Habitual misdemeanor assault,H
+§ 14-34,Assaulting by pointing gun,A1
+§ 14-34.1,Discharging certain barreled weapons or a firearm into occupied property,E
+§ 14-34.1,Discharging certain barreled weapons or a firearm into occupied property (conveyance in operation),D
+§ 14-34.1,Discharging certain barreled weapons or a firearm into occupied property (resulting in serious bodily injury),C
+§ 14-34.2.,"Assault with a firearm or other deadly weapon upon governmental officers or employees, company police officers, or campus police officers",F
+§ 14-34.3.,"Manufacture, sale, purchase, or possession of teflon-coated types of bullets ",1
+§ 14-34.4,"Adulterated or misbranded food, drugs, or cosmetics; intent to cause serious injury or death; intent to extort",C
+§ 14-34.5,"Assault with a firearm on … (LEO, Probation/Parole Officer on duty)",D
+§ 14-34.5,Assault with a firearm on … (Natl Guardsman),E
+§ 14-34.5,Assault with a firearm on … (Detention Worker),D
+§ 14-34.6,"Assault or affray on a firefighter, an emergency medical technician, medical responder, and hospital personnel",I
+§ 14-34.6,"Assault or affray on a firefighter, an emergency medical technician, medical responder, and hospital personnel (serious bodily int or deadly weapon)",H
+§ 14-34.6,"Assault or affray on a firefighter, an emergency medical technician, medical responder, and hospital personnel (with firearm)",F
+§ 14-34.7,Certain assaults on  . . . LEO/PO/Parole Officer on duty (with serious bodily injury),F
+§ 14-34.7,Certain assaults on  . . . Natl Guard (with serious bodily injury),F
+§ 14-34.7,Certain assaults on  . . . Detention Employee (with serious bodily injury),F
+§ 14-34.7,Certain assaults on  . . . LEO/PO/Parole Officer on duty (with physical injury),I
+§ 14-34.7,Certain assaults on  . . . Natl Guard (with physical injury),I
+§ 14-34.7,Certain assaults on  . . . Detention Employee (with physical injury),I
+§ 14-34.8,Criminal use of laser device,Infraction
+§ 14-34.9,Discharging a firearm from within an enclosure (ie: drive-by),E
+§ 14-34.10,Discharge firearm within enclosure to incite fear.,F
+§ 14-35, Hazing,2
+§ 14-39, Second Degree Kidnapping, E
+§ 14-39, First Degree Kidnapping, C
+§ 14-40, Enticing minors out of the State for the purpose of employment,2
+§ 14-41, Abduction of children, F
+§ 14-43.1, Unlawful arrest by officers from other states,2
+§ 14-43.3, Felonious restraint, F
+§ 14-43.11,Human trafficking (of adult),C
+§ 14-43.11,Human trafficking (of minor),B2
+§ 14-43.12,Involuntary servitude (of adult),F
+§ 14-43.12,Involuntary servitude (of minor),C
+§ 14-43.12,Involuntary servitude (Failure to Report Involuntary Laborers for Contracting Parties),1
+§ 14-43.13,Sexual servitude (adult victim),D
+§ 14-43.13,Sexual servitude (minor victim),C
+§ 14-43.14,"Unlawful sale, surrender, or purchase of a minor",F
+§ 14-43.17,Victim confidentiality; penalty for unlawful disclosure,3
+§ 14-44,Using drugs or instruments to destroy unborn child,H
+§ 14-45,Using drugs or instruments to produce miscarriage or injure pregnant woman,I
+§ 14-46,Concealing birth of child (ie: secret burial of deceased newborn),I
+§ 14-46,Aid and Abet Concealment of birth of child (ie: secret burial of deceased newborn),1
+§ 14-46.1,Prohibit sale of the remains of an unborn child resulting from an abortion or miscarriage,I
+§ 14-47,Communicating libelous matter to newspapers,2
+§ 14-49,Malicious use of explosive or incendiary (causing injury to person),D
+§ 14-49,Malicious use of explosive or incendiary (causing injury to property),G
+§ 14-49,Malicious use of explosive or incendiary (causing injury to house of worship),E
+§ 14-49,Malicious use of explosive or incendiary (causing injury to State Capitol),E
+§ 14-49.1,Malicious damage of occupied property by use of explosive or incendiary,D
+§ 14-50.17,Soliciting/Encouraging participation (in gang activity),H
+§ 14-50.18,Soliciting; encouraging participation; minor (encourage minor under 16—gang activity),F
+§ 14-50.19,Intimidation to deter from gang withdrawal (not causing person physical injury),G
+§ 14-50.19,Intimidation to deter from gang withdrawal (causing a person injury),F
+§ 14-50.20,Punishment or retaliation for gang withdrawal (not causing person physical injury),G
+§ 14-50.20,Punishment or retaliation for gang withdrawal (causing person physical injury),F
+§ 14-51,First and second degree burglary (first—see also § 14-52),D
+§ 14-51,First and second degree burglary (second—see also § 14-52),G
+§ 14-53,Breaking out of dwelling house burglary,D
+§ 14-54,Breaking or entering buildings (to commit a felony therein),H
+§ 14-54,Breaking or entering buildings (to terrorize or injure an occupant),H
+§ 14-54,Breaking or entering buildings (wrongfully break into building),1
+§ 14-54.1,Breaking or entering a building that is a place of religious worship,G
+§ 14-54.2,Breaking or entering a pharmacy (to steal CS),E
+§ 14-54.2,Breaking or entering a pharmacy (receiving CS knowing stolen from pharmacy),F
+§ 14-55,Preparation to commit burglary or other housebreakings,I
+§ 14-56,"Breaking or entering into or breaking out of railroad cars, motor vehicles, trailers, aircraft, boats, or other watercraft",I
+§ 14-56.1,Breaking into or forcibly opening coin-or currency-operated machines (first offense),1
+§ 14-56.1,Breaking into or forcibly opening coin-or currency-operated machines (subsequent offense),1
+§ 14-56.2,Damaging or destroying coin-or currency-operated machines,1
+§ 14-56.3,Breaking into paper currency machines (first offense),1
+§ 14-56.3,Breaking into paper currency machines (subsequent offense),1
+§ 14-56.4,Preparation to commit breaking or entering into motor vehicles (first offense),1
+§ 14-56.4,Preparation to commit breaking or entering into motor vehicles (subsequent offense),I
+§ 14-57,Burglary with explosives,D
+§ 14-58,Punishment for arson (occupied—first degree),D
+§ 14-58,Punishment for arson (unoccupied—second degree),G
+§ 14-58.2,"Burning of mobile home, manufactured-type house or recreational trailer (occupied—first degree)",D
+§ 14-59,Burning of certain public buildings (state government buildings enumerated),F
+§ 14-60,Burning of schoolhouses or buildings of educational institutions,F
+§ 14-61,Burning of certain bridges and buildings,F
+§ 14-62,Burning of certain buildings (trade buildings enumerated),F
+§ 14-62.1,Burning of building or structure in process of construction,H
+§ 14-62.2,Burning of churches and certain other religious buildings,E
+§ 14-63,Burning of boats and barges,H
+§ 14-64,Burning of ginhouses and tobacco houses,H
+§ 14-65,Fraudulently setting fire to dwelling houses,H
+§ 14-66,Burning of personal property,H
+§ 14-67.1,Burning other buildings.,H
+§ 14-67.2,"Burning caused during commission of another felony (damage in excess of 10,000)",D
+§ 14-68,Failure of owner of property to comply with orders of public authorities,3
+§ 14-69,Failure of officers to investigate incendiary fires,3
+§ 14-69.1,Making a false report concerning destructive device (first offense),H
+§ 14-69.1,Making a false report concerning destructive device (subsequent offense),G
+§ 14-69.2,Perpetrating hoax by use of false bomb or other device (first offense),H
+§ 14-69.2,Perpetrating hoax by use of false bomb or other device (subsequent offense),G
+§ 14-69.3,Arson or other unlawful burning that results in serious bodily injury to … (safety/emergency personnel),E
+§ 14-71,Receiving stolen goods; receiving or possessing goods represented as stolen,H
+§ 14-71.1,Possessing stolen goods,H
+§ 14-71.2,Receiving or transferring stolen vehicles,H
+§ 14-72,"Larceny of property; receiving stolen goods or possessing stolen goods (over 1,000 dollars)",H
+§ 14-72,Larceny of property; receiving stolen goods or possessing stolen goods (from the person),H
+§ 14-72,"Larceny of property; receiving stolen goods or possessing stolen goods (pursuant to a violation of G.S. 14-51, 14-53, 14-54, 14-54.1, or 14-57)",H
+§ 14-72,Larceny of property; receiving stolen goods or possessing stolen goods (of explosive or incindiary),H
+§ 14-72,Larceny of property; receiving stolen goods or possessing stolen goods (of firearm),H
+§ 14-72,Larceny of property; receiving stolen goods or possessing stolen goods (of record from North Carolina State Archives),H
+§ 14-72,Larceny of property; receiving stolen goods or possessing stolen goods (habitual),H
+§ 14-72,Larceny of property; receiving stolen goods or possessing stolen goods (generally),1
+§ 14-72.1,Concealment of merchandise in mercantile establishments (first offense),3
+§ 14-72.1,Concealment of merchandise in mercantile establishments (second offense),2
+§ 14-72.1,Concealment of merchandise in mercantile establishments (third/subsequent offense),1
+§ 14-72.1,Concealment of merchandise in mercantile establishments (with special equipment for defeating anti-shoplifting devices),H
+§ 14-72.2,Unauthorized use of a motor-propelled conveyance (aircraft),H
+§ 14-72.2,Unauthorized use of a motor-propelled conveyance (not aircraft),1
+§ 14-72.3,Removal of shopping cart from shopping premises,3
+§ 14-72.4,Unauthorized taking or sale of labeled dairy milk cases or milk crates bearing,2
+§ 14-72.5,Larceny of motor fuel,1
+§ 14-72.6,"Felonious larceny, possession, or receiving of stolen goods from a permitted construction site",I
+§ 14-72.7,Chop shop activity,G
+§ 14-72.8,Felony larceny of motor vehicle parts,I
+§ 14-72.11,Larceny from a merchant,H
+§ 14-74,"Larceny by servants and other employees (over 100,000 dollars)",C
+§ 14-74,"Larceny by servants and other employees (under 100,000 dollars)",H
+§ 14-75,Larceny of chose in action,H
+§ 14-75.1,Larceny of secret technical processes,H
+§ 14-76,"Larceny, mutilation, or destruction of public records and papers",1
+§ 14-76.1,Mutilation or defacement of records and papers in the North Carolina State Archives,1
+§ 14-77,"Larceny, concealment or destruction of wills",1
+§ 14-78,Larceny of ungathered crops,H
+§ 14-79,Larceny of ginseng,H
+§ 14-79.1,Larceny of pine needles or pine straw,H
+§ 14-79.2,"Waste kitchen grease; unlawful acts and penalties (under 1,000 dollars in value)",1
+§ 14-79.2,"Waste kitchen grease; unlawful acts and penalties (over 1,000 dollars in value)",H
+§ 14-81,"Larceny of horses, mules, swine, cattle, or dogs (horses, mules, swine, or cattle)",H
+§ 14-81,"Larceny of horses, mules, swine, cattle, or dogs (dog)",I
+§ 14-85,Pursuing or injuring livestock with intent to steal,H
+§ 14-86.2,"Larceny, destruction, defacement, or vandalism of portable toilets or pumper trucks",1
+§ 14-86.6,"Organized retail theft (under 1,500, 1 other person)",H
+§ 14-86.6,"Organized retail theft (over 1,500, or two/more people)",G
+§ 14-87,Robbery with firearms or other dangerous weapons,D
+§ 14-87.1,Common-law robbery,G
+§ 14-88,Train robbery,D
+§ 14-89.1,Safecracking,I
+§ 14-90,"Embezzlement of property received by virtue of office or employment (under 100,000)",H
+§ 14-90,"Embezzlement of property received by virtue of office or employment (over 100,000)",C
+§ 14-92,"Embezzlement of funds by public officers and trustees (Over 100,000)",C
+§ 14-92,"Embezzlement of funds by public officers and trustees (under 100,000)",C
+§ 14-93,"Embezzlement by treasurers of charitable and religious organizations (over 100,000)",C
+§ 14-93,"Embezzlement by treasurers of charitable and religious organizations (under 100,000)",H
+§ 14-94,"Embezzlement by officers of railroad companies (over 100,000)",C
+§ 14-94,"Embezzlement by officers of railroad companies (under 100,000)",H
+§ 14-97,"Appropriation of partnership funds by partner to personal use (over 100,000)",C
+§ 14-97,"Appropriation of partnership funds by partner to personal use (under 100,000)",H
+§ 14-98,"Embezzlement by surviving partner (over 100,000)",C
+§ 14-98,"Embezzlement by surviving partner (under 100,000)",H
+§ 14-99,"Embezzlement of taxes by officers (over 100,000)",C
+§ 14-99,"Embezzlement of taxes by officers (under 100,000)",F
+§ 14-100,"Obtaining property by false pretenses (over 100,000)",C
+§ 14-100,"Obtaining property by false pretenses (under 100,000)",H
+§ 14-100.1,Possession or manufacture of certain fraudulent forms of identification,1
+§ 14-101,Obtaining signatures by false pretenses,H
+§ 14-102,Obtaining property by false representation of pedigree of animals,2
+§ 14-103,Obtaining certificate of registration of animals by false representation,3
+§ 14-104,Obtaining advances under promise to work and pay for same,2
+§ 14-105.,Obtaining advances under written promise to pay therefor out of designated property,2
+§ 14-106,"Obtaining property in return for worthless check, draft or order",3
+§ 14-107,"Worthless checks; multiple presentment of checks (over 2,000)",I
+§ 14-107,Worthless checks; multiple presentment of checks (overdrawn—first 3 times),3
+§ 14-107,Worthless checks; multiple presentment of checks (closed account),1
+§ 14-107,Worthless checks; multiple presentment of checks (nonexistant account),1
+§ 14-108,"Obtaining property or services from slot machines, etc., by false coins or tokens",2
+§ 14-109,"Manufacture, sale, or gift of devices for cheating slot machines, etc",2
+§ 14-110,Defrauding innkeeper or campground owner,2
+§ 14-111.1,"Obtaining ambulance services without intending to pay therefor – Buncombe, Haywood and Madison Counties",2
+§ 14-111.2,Obtaining ambulance services without intending to pay therefor – certain named counties,2
+§ 14-111.3,Making unneeded ambulance request in certain counties,3
+§ 14-111.4,Misuse of 911 system,1
+§ 14-112,Obtaining merchandise on approval.,2
+§ 14-112.2(d)(1),Exploitation of an older adult or disabled adul,F
+§ 14-112.2(d)(2),Exploitation of an older adult or disabled adul,G
+§ 14-112.2(d)(3),Exploitation of an older adult or disabled adul,H
+§ 14-112.2(e)(1),Exploitation of an older adult or disabled adul,G
+§ 14-112.2(e)(2),Exploitation of an older adult or disabled adul,H
+§ 14-112.2(e)(3),Exploitation of an older adult or disabled adul,I
+§ 14-113,Obtaining money by false representation of physical disability,2
+§ 14-113.1,Use of false or counterfeit credit device; unauthorized use of another's credit device; use after notice of revocation,2
+§ 14-113.5,Telephone fraud devices,2
+§ 14-113.5,Telephone fraud devices (5 or more devices),G
+§ 14-113.9,Financial transaction card theft,I
+§ 14-113.11,Forgery of financial transaction card,I
+§ 14-113.13,Financial transaction card fraud (under 500 in 6 months),2
+§ 14-113.13,Financial transaction card fraud (at or over 500 in 6 months),I
+§ 14-113.14,Criminal possession of financial transaction card forgery devices,I
+§ 14-113.15,Criminal receipt of goods and services fraudulently obtained (under 500 in 6 months),2
+§ 14-113.15,Criminal receipt of goods and services fraudulently obtained (at or over 500 in 6 months),I
+§ 14-113.15A,Criminal factoring of financial transaction card records,I
+§ 14-113.20(a),Identity theft,G
+§ 14-113.20(a),Identity theft (where victim suffers arrest/detention or where 3+ victims),F
+§ 14-113.20A,Trafficking in stolen identities,E
+§ 14-113.31,"Prohibition of falsely obtaining, selling, or soliciting telephone records",H
+§ 14-114,Fraudulent disposal of personal property on which there is a security interest,2
+§ 14-115,Secreting property to hinder enforcement of lien or security interest,2
+§ 14-117,Fraudulent and deceptive advertising,2
+§ 14-117.2,Gasoline price advertisements (self-serve price),3
+§ 14-118,Blackmailing,1
+§ 14-118.1,"Simulation of court process in connection with collection of claim, demand or account",I
+§ 14-118.2,"Assisting, etc., in obtaining academic credit by fraudulent means",2
+§ 14-118.3,Acquisition and use of information obtained from patients in hospitals for fraudulent purposes,2
+§ 14-118.4,Extortion,F
+§ 14-118.5,Theft of cable television service,3
+§ 14-118.6,Filing false lien or encumbrance,I
+§ 14-118.7,"Possession, transfer, or use of automated sales suppression device",H
+§ 14-118.12,Residential mortgage fraud (single occurrence),H
+§ 14-118.12,Residential mortgage fraud (pattern of occurrence),H
+§ 14-119(a),"Forgery of notes, checks, and other securities; counterfeiting of instruments",I
+§ 14-119(b),"Forgery of notes, checks, and other securities; counterfeiting of instruments",G
+§ 14-120,Uttering forged paper or instrument containing a forged endorsement,I
+§ 14-121,Selling of certain forged securities,H
+§ 14-122,"Forgery of deeds, wills and certain other instruments",H
+§ 14-122.1,"Falsifying documents issued by a secondary school, postsecondary educational institution, or governmental agency",1
+§ 14-123,Forging names to petitions and uttering forged petitions,I
+§ 14-124,Forging certificate of corporate stock and uttering forged certificates,I
+§ 14-125,Forgery of bank notes and other instruments by connecting genuine parts (less than 5 notes),I
+§ 14-125,Forgery of bank notes and other instruments by connecting genuine parts (5+ notes),I
+§ 14-127,Willful and wanton injury to real property,1
+§ 14-127.1(b),Graffiti vandalism,1
+§ 14-127.1(c),Graffiti vandalism,H
+§ 14-128,"Injury to trees, crops, lands, etc., of another",1
+§ 14-129,"Taking, etc., of certain wild plants from land of another.",3
+§ 14-129.2,Unlawful to take sea oats,3
+§ 14-129.3,Felony taking of Venus flytrap,H
+§ 14-130,Trespass on public lands,1
+§ 14-131,Trespass on land under option by the federal government,3
+§ 14-132,Disorderly conduct in and injuries to public buildings and facilities.,2
+§ 14-132.2,"Willfully trespassing upon, damaging, or impeding the progress of a public school bus",1
+§ 14-134.2,Operating motor vehicle upon utility easements after being forbidden to do so,3
+§ 14-134.3(a),Domestic criminal trespass,1
+§ 14-134.3(b),Domestic criminal trespass (at safe house for domestic abuse victims),G
+§ 14-135,"Cutting, injuring, or removing another's timber (under felony value in 14-72)",1
+§ 14-135,"Cutting, injuring, or removing another's timber (over felony value in 14-72)",H
+§ 14-136,Setting fire to grass and brushlands and woodlands (first offense),2
+§ 14-136,Setting fire to grass and brushlands and woodlands (intent to damage shown),I
+§ 14-137,Willfully or negligently setting fire to woods and fields,2
+§ 14-138.1,"Setting fire to grassland, brushland, or woodland",3
+§ 14-140.1,Certain fire to be guarded by watchman,Infraction
+§ 14-141(1),"Burning or otherwise destroying crops in the field (under 2,000 damage)",1
+§ 14-141(2),"Burning or otherwise destroying crops in the field (2,000+ damage)",I
+§ 14-142,Injuries to dams and water channels of mills and factories,2
+§ 14-144(1),"Injuring houses, churches, fences and walls (5,000 damage or less)",2
+§ 14-144(2),"Injuring houses, churches, fences and walls (over 5,000 damage)",I
+§ 14-145,Unlawful posting of advertisements,3
+§ 14-146,Injuring bridges,1
+§ 14-147,"Removing, altering or defacing landmarks",2
+§ 14-148,"Defacing or desecrating grave sites (damage under 1,000)",1
+§ 14-148,"Defacing or desecrating grave sites (damage at or over 1,000)",1
+§ 14-149(a),"Desecrating, plowing over or covering up graves; desecrating human remains",I
+§ 14-149(b),"Desecrating, plowing over or covering up graves; desecrating human remains",H
+§ 14-151(d)(1),"Interfering with gas, electric, and steam appliances or meters; penalties",1
+§ 14-151(d)(2),"Interfering with gas, electric, and steam appliances or meters; penalties",H
+§ 14-151(d)(3),"Interfering with gas, electric, and steam appliances or meters; penalties",F
+§ 14-151(d)(4),"Interfering with gas, electric, and steam appliances or meters; penalties",D
+§ 14-152,Injuring fixtures and other property of gas companies,3
+§ 14-153,Tampering with engines and boilers,2
+§ 14-154,"Injuring wires and other fixtures of telephone, telegraph, and electric-power companies",I
+§ 14-155,Unauthorized connections with telephone or telegraph,3
+§ 14-156,Injuring fixtures and other property of electric-power companies,2
+§ 14-157,Felling trees on telephone and electric-power wires,3
+§ 14-158,Interfering with telephone lines,2
+§ 14-159,Injuring buildings or fences; taking possession of house without consent,3
+§ 14-159.1,Contaminating a public water system,C
+§ 14-159.2(a),Interference with animal research,1
+§ 14-159.2(c),Interference with animal research,I
+§ 14-159.3,Trespass to land on motorized all-terrain vehicle,2
+§ 14-159.4(c)(1),"Cutting, mutilating, defacing, or otherwise injuring property to obtain nonferrous metals (less than 1,000 damage)",1
+§ 14-159.4(c)(1),"Cutting, mutilating, defacing, or otherwise injuring property to obtain nonferrous metals (1,000 to 10,000 damages)",H
+§ 14-159.4(c)(1),"Cutting, mutilating, defacing, or otherwise injuring property to obtain nonferrous metals (over 10,000 damages)",F
+§ 14-159.4(c)(2),"Cutting, mutilating, defacing, or otherwise injuring property to obtain nonferrous metals (resulting in serious injury to person)",A1
+§ 14-159.4(c)(3),"Cutting, mutilating, defacing, or otherwise injuring property to obtain nonferrous metals (resulting in serious bodily injury to person)",F
+§ 14-159.4(c)(4),"Cutting, mutilating, defacing, or otherwise injuring property to obtain nonferrous metals (resulting in death of person)",F
+§ 14-159.4(c)(5),"Cutting, mutilating, defacing, or otherwise injuring property to obtain nonferrous metals (resulting in damage to critical infrastructure)",1
+§ 14-159.6(a),"Trespass for purposes of hunting, etc., without written consent ",2
+§ 14-159.6(b),"Trespass for purposes of hunting, etc., without written consent ",1
+§ 14-159.8,"Mutilation, etc., of ""posted"" signs; posting signs without consent of owner or agent",3
+§ 14-159.12(b),First degree trespass,2
+§ 14-159.12(c),First degree trespass,A1
+§ 14-159.12(d),First degree trespass,H
+§ 14-159.12(f),First degree trespass,I
+§ 14-159.13,Second degree trespass,3
+§ 14-159.21,Vandalism (of a cave),3
+§ 14-159.22,Sale of speleothems unlawful,3
+§ 14-160(a),Willful and wanton injury to personal property (damage up to 200),2
+§ 14-160(b),Willful and wanton injury to personal property (over 200),1
+§ 14-160.1,"Alteration, destruction or removal of permanent identification marks from personal property",1
+§ 14-160.2,"Alteration, destruction, or removal of serial number from firearm; possession of firearm with serial number removed",H
+§ 14-160.3,"Injuring, destroying, removing, vandalizing, or tampering with firefighting or emergency medical services machinery or equipment",1
+§ 14-162,Removing boats,2
+§ 14-163,Poisoning livestock,I
+§ 14-163.1(a1),"Assaulting a law enforcement agency animal, an assistance animal, or a search and rescue animal (kills animal)",H
+§ 14-163.1(b),"Assaulting a law enforcement agency animal, an assistance animal, or a search and rescue animal (serious harm)",I
+§ 14-163.1(b),"Assaulting a law enforcement agency animal, an assistance animal, or a search and rescue animal (cause or attempt to cause harm)",1
+§ 14-163.1(d),"Assaulting a law enforcement agency animal, an assistance animal, or a search and rescue animal (taunt, harass, etc)",2
+§ 14-165,Malicious or willful injury to hired personal property,2
+§ 14-166,Subletting of hired property,2
+§ 14-167,Failure to return hired property,3
+§ 14-167,"Failure to return hired property (vehicle in excess of 4,000 value)",H
+§ 14-168,Hiring with intent to defraud (mostly directly applies to conveyances and draft animals),2
+§ 14-168.1,"Conversion by bailee, lessee, tenant or attorney-in-fact (under 400)",3
+§ 14-168.1,"Conversion by bailee, lessee, tenant or attorney-in-fact (excess of 400)",H
+§ 14-168.4,Failing to return rented property on which there is purchase option,3
+§ 14-177,Crime against nature,I
+§ 14-178(b)(1),Incest.,B1
+§ 14-178(b)(2),Incest.,C
+§ 14-178(b)(3),Incest.,F
+§ 14-183,Bigamy,I
+§ 14-184,Fornication and adultery,2
+§ 14-186,Opposite sexes occupying same bedroom at hotel for immoral purposes; falsely registering as husband and wife,2
+§ 14-188,"*Keeping whorehouse, etc",2
+§ 14-190.1,Obscene literature and exhibitions,I
+§ 14-190.4,Coercing acceptance of obscene articles or publications,1
+§ 14-190.5,"Preparation of obscene photographs, slides and motion pictures",1
+§ 14-190.5A(c)(1),Disclosure of private images,H
+§ 14-190.5A(c)(2),Disclosure of private images,1
+§ 14-190.5A(c)(3),Disclosure of private images,H
+§ 14-190.6,Employing or permitting minor to assist in offense under Article,I
+§ 14-190.7,Dissemination to minors under the age of 16 years,I
+§ 14-190.8,Dissemination to minors under the age of 13 years,I
+§ 14-190.9(a),Indecent exposure,2
+§ 14-190.9(a1),Indecent exposure,H
+§ 14-190.9(a2),Indecent exposure,2
+§ 14-190.9(a4),Indecent exposure,2
+§ 14-190.9(a5),Indecent exposure,2
+§ 14-190.14,Displaying material harmful to minors,2
+§ 14-190.15, Disseminating harmful material to minors; exhibiting harmful performances to minors,1
+§ 14-190.16,First degree sexual exploitation of a minor,C
+§ 14-190.17,Second degree sexual exploitation of a minor,E
+§ 14-190.17A,Third degree sexual exploitation of a minor,H
+§ 14-196,*Telephone harassment,2
+§ 14-196.3,Cyberstalking,2
+§ 14-199,Obstructing way to places of public worship,2
+§ 14-202(a),Secretly peeping (NB: enhanced penalties for repeat offenses),1
+§ 14-202(a1),Secretly peeping (NB: enhanced penalties for repeat offenses),1
+§ 14-202(c),Secretly peeping (NB: enhanced penalties for repeat offenses),A1
+§ 14-202(d),Secretly peeping (NB: enhanced penalties for repeat offenses),I
+§ 14-202(e),Secretly peeping (NB: enhanced penalties for repeat offenses),I
+§ 14-202(f),Secretly peeping (NB: enhanced penalties for repeat offenses),I
+§ 14-202(g),Secretly peeping (NB: enhanced penalties for repeat offenses),I
+§ 14-202(h),Secretly peeping (NB: enhanced penalties for repeat offenses),H
+§ 14-202.1,Taking indecent liberties with children,F
+§ 14-202.2,Indecent liberties between children,1
+§ 14-202.3(c)(1),Solicitation of child by computer or certain other electronic devices to commit an unlawful sex act,H
+§ 14-202.3(c)(2),Solicitation of child by computer or certain other electronic devices to commit an unlawful sex act (accused/agent of accused shows up to arranged meeting),G
+§ 14-202.4,Taking indecent liberties with a student,I
+§ 14-202.5,Ban use of commercial social networking Web sites by sex offenders,I
+§ 14-202.11,Restrictions as to adult establishments (first offense),3
+§ 14-202.11,Restrictions as to adult establishments (subsequent offenses),2
+§ 14-204,Prostitution,1
+§ 14-205.1(a),Solicitation of prostitution (first offense),1
+§ 14-205.1(a),Solicitation of prostitution (subsequent offenses),H
+§ 14-205.1(a),Solicitation of prostitution (where prostitute is minor),G
+§ 14-205.1(a),Solicitation of prostitution (mentally disabled prostitute),E
+§ 14-205.2(b),Patronizing a prostitute (first offense),A1
+§ 14-205.2(b),Patronizing a prostitute (subsequent offenses),G
+§ 14-205.2(c),Patronizing a prostitute (where prostitute is minor),F
+§ 14-205.2(d),Patronizing a prostitute (mentally disabled prostitute),D
+§ 14-205.3(a),Promoting prostitution,F
+§ 14-205.3(a),Promoting prostitution (person with certain related priors),E
+§ 14-205.3(b)(1),Promoting prostitution,D
+§ 14-205.3(b)(2),Promoting prostitution,D
+§ 14-205.3(b)(3),Promoting prostitution,C
+§ 14-208.1,Promoting travel for unlawful sexual conduct,G
+§ 14-208.9A(c),Verification of registration information,1
+§ 14-208.11(a),Failure to register; falsification of verification notice; failure to return verification form; order for arrest,F
+§ 14-208.11A,Duty to report noncompliance of a sex offender; penalty for failure to report in certain circumstances,H
+§ 14-208.16,Residential restrictions (apropos sex offenders),G
+§ 14-208.17,Sexual predator prohibited from working or volunteering for child-involved activities; limitation on residential use,F
+§ 14-208.18,Sex offender unlawfully on premises,H
+§ 14-208.44(a),Failure to enroll; tampering with device (satellite-based monitoring of sex offenders),F
+§ 14-208.44(b),Failure to enroll; tampering with device (satellite-based monitoring of sex offenders),E
+§ 14-208.44©,Failure to enroll; tampering with device (satellite-based monitoring of sex offenders),1
+§ 14-209,Punishment for perjury,F
+§ 14-210,Subornation of perjury,I
+§ 14-211,Perjury before legislative committees,I
+§ 14-217,Bribery of officials,F
+§ 14-218,Offering bribes,F
+§ 14-220,Bribery of jurors,F
+§ 14-221,Breaking or entering jails with intent to injure prisoners,F
+§ 14-221.1,"Altering, destroying, or stealing evidence of criminal conduct",I
+§ 14-221.2,Altering court documents or entering unauthorized judgments,H
+§ 14-223,Resisting officers,2
+§ 14-225(a),False reports to law enforcement agencies or officers,2
+§ 14-225(b),False reports to law enforcement agencies or officers,H
+§ 14-225.1,Picketing or parading,1
+§ 14-225.2(a)(1),Harassment of and communication with jurors,H
+§ 14-225.2(a)(2),Harassment of and communication with jurors,I
+§ 14-226,Intimidating or interfering with witnesses,G
+§ 14-226.1,Violating orders of court,3
+§ 14-226.2,Harassment of participant in neighborhood crime watch program,1
+§ 14-226.3,Interference with electronic monitoring devices (sentence depends on the charges faced),x
+§ 14-227,Failing to attend as witness before legislative committees,3
+§ 14-227.1,Secret listening to conference between prisoner and his attorney,2
+§ 14-227.2,Secret listening to deliberations of grand or petit jury,2
+§ 14-228,Buying and selling offices,I
+§ 14-229,Acting as officer before qualifying as such,1
+§ 14-230,Willfully failing to discharge duties,1
+§ 14-231,Failing to make reports and discharge other duties,1
+§ 14-232,Swearing falsely to official reports,1
+§ 14-233,Making of false report by bank examiners; accepting bribes,I
+§ 14-234,Public officers or employees benefiting from public contracts,1
+§ 14-234.1,Misuse of confidential information,1
+§ 14-238,Soliciting during school hours without permission of school head,2
+§ 14-239,Allowing prisoners to escape,1
+§ 14-241,Disposing of public documents or refusing to deliver them over to successor,1
+§ 14-242,Failing to return process or making false return,1
+§ 14-243,Failing to surrender tax list for inspection and correction,1
+§ 14-244,Failing to file report of fines or penalties,1
+§ 14-246,"Failure of ex-magistrate to turn over books, paper, and money",1
+§ 14-247,Private use of publicly owned vehicle,2
+§ 14-248,Obtaining repairs and supplies for private vehicle at expense of State,2
+§ 14-253,Failure of certain railroad officers to account with successors,I
+§ 14-254,Malfeasance of corporation officers and agents,H
+§ 14-255,Escape of working prisoners from custody,1
+§ 14-256,Prison breach and escape from county or municipal confinement facilities or officers,1
+§ 14-256(1),Prison breach and escape from county or municipal confinement facilities or officers (Pending Felony Charges),H
+§ 14-256(2),Prison breach and escape from county or municipal confinement facilities or officers (Incarcerated for Felony),H
+§ 14-256.1,Escape from private correctional facility,H
+§ 14-258(a),Providing forbidden articles or tools for escape; possessing tools for escape (D gives x to inmate and escape fails),H
+§ 14-258(b),Providing forbidden articles or tools for escape; possessing tools for escape (escape succeeds),F
+§ 14-258(c),Providing forbidden articles or tools for escape; possessing tools for escape (inmate possesses items for escape),H
+§ 14-258.1(a),Furnishing … contraband to … inmates or delinquent juveniles (weapons and drugs to inmates),H
+§ 14-258.1(b),Furnishing … contraband to … inmates or delinquent juveniles (give/sell ETOH to inmates),1
+§ 14-258.1(c),Furnishing … contraband to … inmates or delinquent juveniles (give/sell tobacco to inmates),1
+§ 14-258.1(d),Furnishing … contraband to … inmates or delinquent juveniles (give/sell cell or communication device to inmates),H
+§ 14-258.1(e),Furnishing … contraband to … inmates or delinquent juveniles (inmate has tobacco),1
+§ 14-258.1(g),Furnishing … contraband to … inmates or delinquent juveniles (inmate has cell or comm device),H
+§ 14-258.2(a),Possession of dangerous weapon in prison (but not used for anything),H
+§ 14-258.2(a),Possession of dangerous weapon in prison (used to inflict bodily injury or effect escape),F
+§ 14-258.2(b),Possession of dangerous weapon in prison (helping prisoner get the item used in assault or escape),H
+§ 14-258.3,"Taking of hostage, etc., by prisoner",F
+§ 14-258.4(a),Malicious conduct by prisoner (fluids or excrement -> officer),F
+§ 14-258.4(b),Malicious conduct by prisoner (flashing genitals -> officer),I
+§ 14-259,Harboring or aiding certain persons (harboring misdemeanor offenders),1
+§ 14-259,Harboring or aiding certain persons (harboring felon offenders),I
+§ 14-266,Persuading inmates to escape.,1
+§ 14-267,Harboring fugitives,1
+§ 14-269(a),Carrying concealed weapons (first offense),1
+§ 14-269(a1),Carrying concealed weapons (first offense),1
+§ 14-269(a),Carrying concealed weapons (subsequent offense),H
+§ 14-269(a1),Carrying concealed weapons (subsequent offense),H
+§ 14-269.2(b),Weapons on campus or other educational property (possession of firearm—not BB or pellet gun),I
+§ 14-269.2(b),Weapons on campus or other educational property (discharging of firearm—not BB or pellet gun),F
+§ 14-269.2(b1),Weapons on campus or other educational property (possession of explosives),G
+§ 14-269.2(c),Weapons on campus or other educational property (aid or encourage juvenile to be armed with firearm),I
+§ 14-269.2(c1),Weapons on campus or other educational property (aid or encourage juvenile to have explosive),G
+§ 14-269.2(d),Weapons on campus or other educational property (possession of weapon other than firearm or explosive),1
+§ 14-269.2(e),Weapons on campus or other educational property (aid or encourage juvenile to have weapon other than firearm or explosive),1
+§ 14-269.2(f),Weapons on campus or other educational property (non-student and non-teacher with limitations),1
+§ 14-269.3,Carrying weapons into assemblies and establishments where alcoholic beverages are sold and consumed,1
+§ 14-269.4,Weapons on certain State property and in courthouses.,1
+§ 14-269.6,Possession and sale of spring-loaded projectile knives prohibited,1
+§ 14-269.7,Prohibitions on handguns for minors,1
+§ 14-269.8,Purchase or possession of firearms by person subject to domestic violence order prohibited,H
+§ 14-275.1,Disorderly conduct at bus or railroad station or airport,3
+§ 14-276.1,Impersonation of firemen or emergency medical services personnel.,3
+§ 14-277(a)(1-3),Impersonation of a law-enforcement or other public officer (verbal or with badge/uniform or red lights on vehicle),1
+§ 14-277(a)(4),Impersonation of a law-enforcement or other public officer (using blue lights on car in PVA),I
+§ 14-277(b)(1-4),Impersonation of a law-enforcement or other public officer (exercise authority for various acts),1
+§ 14-277(b)(5),Impersonation of a law-enforcement or other public officer (exercise authority by stopping someone with blue lights),H
+§ 14-277(e),Impersonation of a law-enforcement or other public officer (gaining ingress into closed establishment),1
+§ 14-277.1,Communicating threats,1
+§ 14-277.2,"Weapons at parades, etc., prohibited",1
+§ 14-277.3A,Stalking (first offense),A1
+§ 14-277.3A,Stalking (subsequent offense),F
+§ 14-277.3A,Stalking (in violation of court order),H
+§ 14-277.4(a-b),Obstruction of health care facilities (first offense),2
+§ 14-277.4(a-b),Obstruction of health care facilities (second offense within 3 years),1
+§ 14-277.4(a-b),Obstruction of health care facilities (third or subsequent offense within 3 years),1
+§ 14-277.4A,Targeted picketing of a residence,2
+§ 14-277.5,Making a false report concerning mass violence on educational property,H
+§ 14-277.6,Communicating a threat of mass violence on educational property,H
+§ 14-277.7,Communicating a threat of mass violence at a place of religious worship,H
+§ 14-278. ,Willful injury to property of railroads,I
+§ 14-279. ,Unlawful injury to property of railroads,2
+§ 14-279.1. ,Unlawful impairment of operation of railroads,2
+§ 14-280. ,Shooting or throwing at trains or passengers.,I
+§ 14-280.1. ,Trespassing on railroad right-of-way.,3
+§ 14-280.2. ,Use of a laser device towards an aircraft.,H
+§ 14-280.3. ,Interference with manned aircraft by unmanned aircraft systems.,H
+§ 14-281. ,Operating trains and streetcars while intoxicated.,2
+§ 14-281.1. ,"Throwing, dropping, etc., objects at sporting events.",3
+§ 14-282. ,Displaying false lights on seashore.,I
+§ 14-283. ,Exploding dynamite cartridges and bombs.,1
+§ 14-284. ,Keeping for sale or selling explosives without a license.,1
+§ 14-284.1. ,Regulation of sale of explosives; reports; storage.,2
+§ 14-284.2. ,Dumping of toxic substances.,F
+§ 14-286. ,"Giving false fire alarms; molesting fire-alarm, fire-detection or fire-extinguishing system. (NOT IN a confinement facility/prison)",2
+§ 14-286. ,"Giving false fire alarms; molesting fire-alarm, fire-detection or fire-extinguishing system. (IN a confinement facility/prison)",H
+§ 14-286.1. ,Making false ambulance request.,3
+§ 14-286.2. ,Interfering with emergency communication.,A1
+§ 14-287. ,Leaving unused well open and exposed.,2
+§ 14-288. ,Unlawful to pollute any bottles used for beverages.,3
+§ 14-288.2(b),"Riot, etc. (willfully engaging in riot)",1
+§ 14-288.2(c),"Riot, etc. (riot causes $1500 damage, serious bodily injury, or defendant had dangerous weapon or substance)",H
+§ 14-288.2(b),"Riot, etc. (inciting others to participate in riot)",1
+§ 14-288.2(c),"Riot, etc. (Inciting a riot causing $1500 damage or serious bodily injury)",F
+§ 14-288.4 ,Disorderly conduct.,2
+§ 14-288.4 ,Disorderly conduct. (at funeral or memorial—first offense),1
+§ 14-288.4 ,Disorderly conduct. (at funeral or memorial—second offense),I
+§ 14-288.4 ,Disorderly conduct. (at funeral or memorial—third or subsequent offense),H
+§ 14-288.5 ,Failure to disperse when commanded a misdemeanor,2
+§ 14-288.6 ,Looting; trespass during emergency. (trespass to property),1
+§ 14-288.6,Looting; trespass during emergency. (looting or destroying property),H
+§ 14-288.8 ,Manufacture … weapon of mass death and destruction,F
+§ 14-288.9 ,Assault on emergency personnel (causing injury),I
+§ 14-288.9 ,Assault on emergency personnel (with dangerous weapon),F
+§ 14-288.20. ,Certain weapons at civil disorders.,H
+§ 14-288.20A. ,Violation of emergency prohibitions and restrictions.,2
+§ 14-288.21,"Unlawful manufacture, assembly… of a nuclear, biological, or chemical weapon",B1
+§ 14-288.22(a),"Unlawful use of a nuclear, biological, or chemical weapon of mass destruction (use of weapon)",A
+§ 14-288.22(b),"Unlawful use of a nuclear, biological, or chemical weapon of mass destruction (soliciting or conspiring)",B1
+§ 14-288.22(b),"Unlawful use of a nuclear, biological, or chemical weapon of mass destruction (putting NBC in mail/package)",B1
+§ 14-288.23,"Making a false report concerning a nuclear, biological, or chemical weapon of mass destruction",D
+§ 14-288.24,"Perpetrating hoax by use of false nuclear, biological, or chemical weapon of mass destruction",D
+§ 14-289,Advertising lotteries.,2
+§ 14-290 ,Dealing in lotteries.,2
+§ 14-291 ,Selling lottery tickets and acting as agent for lotteries.,2
+§ 14-291.1,"Selling ""numbers"" tickets",2
+§ 14-291.2 ,Pyramid and chain schemes prohibited. (running a pyramid scheme),H
+§ 14-291.2,Pyramid and chain schemes prohibited. (promoting a pyramid scheme),H
+§ 14-292 ,Gambling,2
+§ 14-293 ,Allowing gambling in houses of public entertainment,2
+§ 14-294,Gambling with faro banks and tables,2
+§ 14-295,"Keeping gaming tables, illegal punchboards or slot machines, or betting thereat",2
+§ 14-297,"Allowing gaming tables, illegal punchboards or slot machines on premises.",2
+§ 14-300,Opposing destruction of gaming tables and seizure of property,2
+§ 14-301 ,Operation or possession of slot machine,2
+§ 14-302,"Punchboards, vending machines, and other gambling devices",2
+§ 14-304,"Manufacture, sale, etc., of slot machines and devices (first offense)",1
+§ 14-304,"Manufacture, sale, etc., of slot machines and devices (second offense)",1
+§ 14-304,"Manufacture, sale, etc., of slot machines and devices (third offense)",1
+§ 14-305 ,Agreements with reference to slot machines or devices made unlawful (first offense),1
+§ 14-305 ,Agreements with reference to slot machines or devices made unlawful (second offense),H
+§ 14-305 ,Agreements with reference to slot machines or devices made unlawful (third or subsequent offense),G
+§ 14-306.3,Certain game promotions unlawful (first offense),1
+§ 14-306.3,Certain game promotions unlawful (second offense),H
+§ 14-306.3,Certain game promotions unlawful (third or subsequent offense),G
+§ 14-306.3(b),Certain game promotions unlawful (if there are 5 or more machines),G
+§ 14-306.4,Electronic machines and devices for sweepstakes prohibited (first offense),1
+§ 14-306.4,Electronic machines and devices for sweepstakes prohibited (second offense),H
+§ 14-306.4,Electronic machines and devices for sweepstakes prohibited (third or subsequent offense),G
+§ 14-309.5,Bingo (violation by licensed organization),2
+§ 14-309.5,"Bingo (violation without license, w license suspended/revoked, misapplying funds, or providing consulting services)",I
+§ 14-309.11,Accounting and use of proceeds (false info in audits of bingo games),2
+§ 14-309.14(1),Beach bingo (offering prize between 10 and 50 dollars),2
+§ 14-309.14(1),Beach bingo (offering prize of 50 dollars or more),I
+§ 14-309.14(2),Beach bingo (promotional prizes),I
+§ 14-309.14(5),Beach bingo (without license or false info on audit),2
+§ 14-309.15,Raffles.,2
+§ 14-309.20,Greyhound racing prohibited.,1
+§ 14-309.26,Game nights.,2
+§ 14-309.34,Applicability to employer paid events (game nights),2
+§ 14-309.35,"Registration, possession, and transportation of gaming equipment.",1
+§ 14-313(b),Youth access to tobacco products etc (helping minors acquire etc),2
+§ 14-313(b),Youth access to tobacco products etc (failure to post sign at store),2
+§ 14-313(b1),Youth access to tobacco products etc (failure to demand proof of age),2
+§ 14-313(c),"Youth access to tobacco products etc (buying under age, fake ID)",2
+§ 14-313(d),Youth access to tobacco products etc (sending or assisting underage person to buy),2
+§ 14-315(a),Selling or giving weapons to minors (most weapons other than handguns),1
+§ 14-315(a1),Selling or giving weapons to minors (handgun),H
+§ 14-315.1,Storage of firearms to protect minors (failure to secure weapon with minor),1
+§ 14-315.2,Warning upon sale or transfer of firearm to protect minor (failure to post sign or give literature),1
+§ 14-316,Permitting young children to use dangerous firearms (allowing unsupervised use under 12),2
+§ 14-316.1,Contributing to delinquency and neglect by parents and others.,1
+§ 14-317,Permitting minors to enter barrooms or billiard rooms.,3
+§ 14-318,Exposing children to fire (leaving child under 8 locked with fire without supervision),1
+§ 14-318.1,Discarding or abandoning iceboxes (failure to remove hinges when disposing of icebox),1
+§ 14-318.2,Child abuse a misdemeanor.,A1
+§ 14-318.4(a),Child abuse a felony (intentional and with serious physical injury to child under 16 when on is parent or caretaker),D
+§ 14-318.4(a1),Child abuse a felony (prostitution of child under 16 when one is parent),D
+§ 14-318.4(a2),Child abuse a felony (permitting sex act upon child under 16 when one is parent or guardian),D
+§ 14-318.4(a3),Child abuse a felony (intentional cause of serious bodily injury or permanent emotional/mental problem by parent or supervisory),B2
+§ 14-318.4(a4),Child abuse a felony (gross negligence or willful act with serious bodily injury),E
+§ 14-318.4(a5),Child abuse a felony (gross negligence or willful act with serious physical injury),G
+§ 14-318.5(b) ,Failure to report the disappearance of a child to law enforcement (parent or caretaker of child under 16),I
+§ 14-318.5(c) ,Failure to report the disappearance of a child to law enforcement (any person who suspects child is missing and in danger and fails to report),1
+§ 14-320.1 ,Transporting child outside the State with intent to violate custody order,I
+§ 14-321,Failing to pay minors for doing certain work,3
+§ 14-321.1,Prohibit baby sitting service by sex offender or in the home of a sex offender (first offense),1
+§ 14-321.1,Prohibit baby sitting service by sex offender or in the home of a sex offender (second or subsequent offense),H
+§ 14-321.2,Prohibit unlawful transfer of custody of minor child,A1
+§ 14-321.2,Prohibit unlawful transfer of custody of minor child (causing serious physical injury),G
+§ 14-322,Abandonment and failure to support spouse and children (first offense),2
+§ 14-322,Abandonment and failure to support spouse and children (subsequent to first offense),2
+§ 14-322.1,Abandonment of child or children for six months (attempt to conceal whereabouts),I
+§ 14-326.1,Parents; failure to support (first offense),2
+§ 14-326.1,Parents; failure to support (subsequent to first offense),1
+§ 14-329(a),"Manufacturing, trafficking in, transporting, or possessing poisonous alcoholic beverages. (Making poisonous beverages)",H
+§ 14-329(b),"Manufacturing, trafficking in, transporting, or possessing poisonous alcoholic beverages.",F
+§ 14-329(c),"Manufacturing, trafficking in, transporting, or possessing poisonous alcoholic beverages",2
+§ 14-329(d),"Manufacturing, trafficking in, transporting, or possessing poisonous alcoholic beverages",1
+§ 14-342,Selling or offering to sell meat of diseased animals.,1
+§ 14-343,Unauthorized dealing in railroad tickets,2
+§ 14-344,Sale of admission tickets in excess of printed price,2
+§ 14-346,Sale of convict-made goods prohibited,2
+§ 14-353,Influencing agents and servants in violating duties owed employers,2
+§ 14-355,Blacklisting employees,3
+§ 14-358,Local: Violation of certain contracts between landlord and tenant (stiffing a landlord on advance),3
+§ 14-359,Local: Tenant neglecting crop; landlord failing to make advances; harboring or employing delinquent tenant,3
+§ 14-360(a),Cruelty to animals; construction of section,1
+§ 14-360(a1),Cruelty to animals; construction of section (attempt/kill by starvation),H
+§ 14-360(b),Cruelty to animals; construction of section (various malicious acts to animal),H
+§ 14-361,Instigating or promoting cruelty to animals,1
+§ 14-361.1,Abandonment of animals,2
+§ 14-362,Cockfighting,I
+§ 14-362.1(a),"Animal fights and baiting, other than cock fights, dog fights and dog baiting (exhibiting a fight other than dogs and roosters)",2
+§ 14-362.1(b),"Animal fights and baiting, other than cock fights, dog fights and dog baiting (owners of animals other than dogs and roosters)",2
+§ 14-362.1(c),"Animal fights and baiting, other than cock fights, dog fights and dog baiting (event participant)",2
+§ 14-362.1(d),"Animal fights and baiting, other than cock fights, dog fights and dog baiting (reoffender under section a within 3 years of prior)",I
+§ 14-362.2(a),Dog fighting and baiting (exhibiting a dog fight),H
+§ 14-362.2(b),Dog fighting and baiting (owners of fighting dogs),H
+§ 14-362.2(c),Dog fighting and baiting (participant or spectator),H
+§ 14-362.3,Restraining dogs in a cruel manner,1
+§ 14-363,Conveying animals in a cruel manner,1
+§ 14-363.1,"Living baby chicks or other fowl, or rabbits under eight weeks of age; disposing of as pets or novelties forbidden",3
+§ 14-366,Molesting or injuring livestock,2
+§ 14-367,Altering the brands of and misbranding another's livestock,H
+§ 14-368,Placing poisonous shrubs and vegetables in public places,2
+§ 14-370,Wrongfully obtaining or divulging knowledge of telephonic messages,2
+§ 14-371,Violating privacy of telegraphic messages; failure to transmit and deliver same promptly,2
+§ 14-372,"Unauthorized opening, reading or publishing of sealed letters and telegrams.",2
+§ 14-373,"Bribery of players, managers, coaches, referees, umpires or officials",I
+§ 14-374,"Acceptance of bribes by players, managers, coaches, referees, umpires or officials",I
+§ 14-377,Intentional losing of athletic contest or limiting margin of victory or defeat,I
+§ 14-380.1,Bribery of horse show judges or officials,2
+§ 14-380.2,Bribery attempts to be reported.,2
+§ 14-381,Desecration of State and United States flag,2
+§ 14-382,Pollution of water on lands used for dairy purposes,3
+§ 14-383,Cutting timber on town watershed without disposing of boughs and debris; misdemeanor,2
+§ 14-384,Injuring notices and advertisements,3
+§ 14-385,Defacing or destroying public notices and advertisements,3
+§ 14-391,Usurious loans on household and kitchen furniture or assignment of wages.,1
+§ 14-394,"Anonymous or threatening letters, mailing or transmitting.",1
+§ 14-395,Commercialization of American Legion emblem; wearing by nonmembers.,3
+§ 14-395.1,Sexual harassment (by landlord),2
+§ 14-398,"Theft or destruction of property of public libraries, museums, etc (up to $50 damage)",1
+§ 14-398,"Theft or destruction of property of public libraries, museums, etc (over $50 damage)",H
+§ 14-399(c),Littering (under 15 lbs and not for commercial purposes),3
+§ 14-399(d),Littering (over 15 and under 500 lbs and not for commercial purpose—3 with higher fines and comm service),3
+§ 14-399(e),Littering (either over 500 lbs or any amount for commercial purposes),I
+§ 14-399.2,Certain plastic yoke and ring type holding devices prohibited.,3
+§ 14-400(a),Tattooing; body piercing prohibited. (Tattoo a person under 18) ,2
+§ 14-400(b),Tattooing; body piercing prohibited. (Piercing  a person under 18 without parental consent) ,2
+§ 14-401,"Putting poisonous foodstuffs, antifreeze, etc., in certain public places, prohibited",1
+§ 14-401.1,Misdemeanor to tamper with examination questions.,2
+§ 14-401.2 ,"Misdemeanor for detective to collect claims, accounts, etc.",2
+§ 14-401.3 ,Inscription on gravestone or monument charging commission of crime.,2
+§ 14-401.4,Identifying marks on machines and apparatus; application to Division of Motor Vehicles for numbers.,1
+§ 14-401.6,"Unlawful to possess, etc., tear gas except for certain purposes.",2
+§ 14-401.7,"Persons, firms, banks and corporations dealing in securities on commission taxed as a private banker.",3
+§ 14-401.9,Parking vehicle in private parking space without permission.,3
+§ 14-401.10,Soliciting advertisements for official publications of law-enforcement officers' associations.,2
+§ 14-401.11(a)(1),Distribution of certain food at Halloween and all other times prohibited (noxious/deleterious substance able to cause mild discomfort),I
+§ 14-401.11(a)(1),Distribution of certain food at Halloween and all other times prohibited (noxious/deleterious substance — worse than mild discomfort),F
+§ 14-401.11(a)(2),Distribution of certain food at Halloween and all other times prohibited (controlled substances),F
+§ 14-401.11(a)(3),Distribution of certain food at Halloween and all other times prohibited (items to cause serious physical pain/discomfort),C
+§ 14-401.12,Soliciting charitable contributions by telephone,1
+§ 14-401.13,Failure to give right to cancel in off-premises sales,3
+§ 14-401.14. ,Ethnic intimidation; teaching any technique to be used for ethnic intimidation.,1
+§ 14-401.15,Telephone sales recovery services.,1
+§ 14-401.15,Telephone sales recovery services (violation with money or other consideration collected,H
+§ 14-401.16,Contaminate food or drink to render one mentally incapacitated or physically helpless.,H
+§ 14-401.16,Contaminate food or drink to render one mentally incapacitated or physically helpless (with intent to commit certain sex crimes),G
+§ 14-401.17,Unlawful removal or destruction of electronic dog collars (first offense),3
+§ 14-401.17,Unlawful removal or destruction of electronic dog collars (subsequent to first offense),2
+§ 14-401.18,Sale of certain packages of cigarettes prohibited.,A1
+§ 14-401.18A,Sale of certain e-liquid containers prohibited.,A1
+§ 14-401.19,Filing false security agreements.,A1
+§ 14-401.20,Defrauding drug and alcohol screening tests (first offense),1
+§ 14-401.20,Defrauding drug and alcohol screening tests (subsequent to first offense),I
+§ 14-401.21,"Practicing ""rebirthing technique” (first offense)",A1
+§ 14-401.21,"Practicing ""rebirthing technique” (first offense)",I
+§ 14-401.22(a),Concealment of death; disturbing human remains; dismembering human remains (secret burial/disposal without notifying authorities),I
+§ 14-401.22(a1),Concealment of death; disturbing human remains; dismembering human remains (secret burial/disposal of child),H
+§ 14-401.22(b),"Concealment of death; disturbing human remains; dismembering human remains (aids, counsels, or abets)",A1
+§ 14-401.22(c),Concealment of death; disturbing human remains; dismembering human remains (vandalize/desecrate remains),I
+§ 14-401.22(d),Concealment of death; disturbing human remains; dismembering human remains (modify corpse to prevent ID),H
+§ 14-401.22(e),Concealment of death; disturbing human remains; dismembering human remains (knowing death not natural causes),D
+§ 14-401.23,"Unlawful manufacture, sale, delivery, or possession of Salvia divinorum (third or subsequent offense)",3
+§ 14-401.24(a),Unlawful possession and use of unmanned aircraft systems (with weapon attached),E
+§ 14-401.24(b),Unlawful possession and use of unmanned aircraft systems (for fishing or hunting),1
+§ 14-401.25,Unlawful distribution of images (thermal images by unmanned aircraft),A1
+§ 14-401.27,Impersonation of a transportation network company driver (impersonating TNC driver during other felony),H
+§ 14-401.27,Impersonation of a transportation network company driver (other than during a felony),2
+§ 14-402,Sale of certain weapons without permit forbidden.,2
+§ 14-404(h)(5),Issuance or refusal of permit; appeal from refusal; grounds for refusal; sheriff's fee. (Refusal to surrender permit),2
+§ 14-406,Dealer to keep record of sales; confidentiality of records,2
+§ 14-408.1,Solicit unlawful purchase of firearm; unlawful to provide materially false information regarding legality of firearm or ammunition transfer.,F
+§ 14-409,Machine guns and other like weapons.,I
+§ 14-410,"Manufacture, sale and use of pyrotechnics prohibited (outdoors)",2
+§ 14-410,"Manufacture, sale and use of pyrotechnics prohibited (indoors)",1
+§ 14-413,Permits for use at public exhibitions (outdoors),2
+§ 14-413,Permits for use at public exhibitions (indoors),2
+§ 14-415.1(a),"Possession of firearms, etc., by felon prohibited.",G
+§ 14-415.3,Possession of a firearm or WMD by … insane persons and persons without capacity to stand trial,H
+§ 14-415.4,Restoration of firearms rights (false info),1
+§ 14-415.21(a),Violations of (Concealed Handgun Article) punishable as an infraction.,Infraction
+§ 14-415.21(a1),Violations of (Concealed Handgun Article) punishable as an infraction. (Carry in prohibited areas),1
+§ 14-415.21(b),Violations of (Concealed Handgun Article) punishable as an infraction. (Other violations of concealed handgun process/rules),2
+§ 14-415.26,Certification of qualified retired law enforcement officers. (Intentional misrepresentation on applications),2
+§ 14-416,Mishandling of certain reptiles declared public nuisance and criminal offense.,2
+§ 14-416,Mishandling of certain reptiles declared public nuisance and criminal offense. (Member of public harmed),A1
+§ 14-416,Mishandling of certain reptiles declared public nuisance and criminal offense. (Non-nativte animal released in wild),A1
+§ 14-417,Regulation of ownership or use of venomous reptiles.,2
+§ 14-417,Regulation of ownership or use of venomous reptiles. (Member of public harmed),A1
+§ 14-417,Regulation of ownership or use of venomous reptiles. (Non-nativte animal released in wild),A1
+§ 14-417.1,Regulation of ownership or use of large constricting snakes.,2
+§ 14-417.1,Regulation of ownership or use of large constricting snakes. (Member of public harmed),A1
+§ 14-417.1,Regulation of ownership or use of large constricting snakes. (Non-nativte animal released in wild),A1
+§ 14-417.2,Regulation of ownership or use of crocodilians.,2
+§ 14-417.2,Regulation of ownership or use of crocodilians. (Member of public harmed),A1
+§ 14-417.2,Regulation of ownership or use of crocodilians. (Non-nativte animal released in wild),A1
+§ 14-418,Prohibited handling of reptiles or suggesting or inducing others to handle.,2
+§ 14-418,Prohibited handling of reptiles or suggesting or inducing others to handle. (Member of public harmed),A1
+§ 14-418,Prohibited handling of reptiles or suggesting or inducing others to handle. (Non-nativte animal released in wild),A1
+§ 14-424,"Engaging, etc., in business of debt adjusting a misdemeanor.",2
+§ 14-433,"Recording of live performances or recorded sounds and distribution, etc., of such recordings unlawful in certain circumstances.",1
+§ 14-433,"Recording of live performances or recorded sounds and distribution, etc. (100 times in 180 days)",I
+§ 14-434,"Retailing, etc., of certain recorded devices unlawful.",1
+§ 14-434,"Retailing, etc., of certain recorded devices unlawful. (100 times in 180 days)",I
+§ 14-435,Recorded devices to show true name and address of manufacturer.,1
+§ 14-435,Recorded devices to show true name and address of manufacturer. (100 times in 180 days),I
+§ 14-440.1,Unlawful operation of an audiovisual recording device. (One still image),1
+§ 14-440.1,Unlawful operation of an audiovisual recording device. (Moving images in theater),I
+§ 14-444,Intoxicated and disruptive in public.,3
+§ 14-454,Accessing computers.,1
+§ 14-454,"Accessing computers. (Fraud of over $1,000)",G
+§ 14-454.1,Accessing government computers. (Accessing for fraud),F
+§ 14-454.1,Accessing government computers. (accessing not for fraud—other purposes),H
+§ 14-454.1,Accessing government computers. (Allowing grades to be seen),1
+§ 14-455,"Damaging computers, etc … (at or under $1,000 damages)",1
+§ 14-455,"Damaging computers, etc … (excess of $1,000 damages)",G
+§ 14-455,"Damaging computers, etc … (belonging to government)",F
+§ 14-456,Denial of computer services to an authorized user.,1
+§ 14-456.1,Denial of government computer services to an authorized user.,H
+§ 14-457,Extortion,H
+§ 14-458,Computer trespass; penalty.,3
+§ 14-458,"Computer trespass; penalty (with damages at or under $2,500)",1
+§ 14-458,"Computer trespass; penalty (with damages over $2,500)",I
+§ 14-458.1,Cyber-bullying (defendant 18 or older),1
+§ 14-458.1,Cyber-bullying (defendant under 18),2
+§ 14-458.2,Cyber-bullying of school employee by student,2
+§ 14-460,Riding on train unlawfully.,3
+§ 14-461,Unauthorized manufacture or sale of switch-lock keys a misdemeanor.,1
