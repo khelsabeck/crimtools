@@ -6,7 +6,7 @@ As of 10/6/2020, this repo includes a spreadsheet list of charges from Chapter 1
 
 I went through the statutes and tried to hash out the crime classses myself. Feel free to use this spreadsheeted material as you like. I intend to post it to a free and open source website in the coming weeks, along with other useful materials. 
 
-Also, feel free to check out my website for office management, https://mylawdb.com
+Also, feel free to check out the website/application I built for attorneys to handle all their office management needs, https://mylawdb.com. Sign up for an account for 30 days of free service. If you like it, you can keep it for 29.95 per month, including free data entry from out sister service MyLawCalendar (in select Counties).
 
 
 --Keith Helsabeck, Esq.
